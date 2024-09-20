@@ -55,4 +55,5 @@ body{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-image: linear-gradient(to left,orange 60%, blue 40%);
 }
