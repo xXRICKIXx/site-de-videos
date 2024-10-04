@@ -12,3 +12,8 @@ body{
 .titulo{
     text-decoration: underline;
 }
+.section{
+    background-color: gainsboro;
+    border: 4px solid #000;
+    border-radius: 10px;
+}
