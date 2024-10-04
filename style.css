@@ -7,5 +7,8 @@ h1{
     
 }
 body{
-    background-color: red;
+    background-color: white;
+}
+.titulo{
+    text-decoration: underline;
 }
